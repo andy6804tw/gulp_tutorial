@@ -3,7 +3,8 @@
 ## Usage
 1. clone the repository
 ```
-git clone https://github.com/andy6804tw/gulp_tutorial.git
+$ git clone https://github.com/andy6804tw/gulp_tutorial.git
+$ cd gulp_tutorial
 ```
 2. install package
 ```
@@ -21,15 +22,15 @@ $ gulp serve
 ### First
 1. 初始化環境
 ```
-npm init
+$ npm init
 ```
 2. 安裝gulp全域變數（安裝一次即可）
 ```
-npm install -g gulp
+$ npm install -g gulp
 ```
 3. 安裝gulp-webserver套件
 ```
-npm install gulp-webserver -save-dev
+$ npm install gulp-webserver -save-dev
 ```
 ### Second
 完成安裝就開始建立環境設定檔吧
