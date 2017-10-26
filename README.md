@@ -31,7 +31,7 @@ npm install -g gulp
 ```
 npm install gulp-webserver -save-dev
 ```
-### econd
+### Second
 完成安裝就開始建立環境設定檔吧
 1. 新增gulpfile.js
 內容撰寫下列的程式，這就是當我們執行 gulp 的時候會跑的任務流程。
