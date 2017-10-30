@@ -15,7 +15,7 @@ $ npm install
 $ gulp serve
 ```
 
-## Introduce
+## 教學
 - Gulp 是基於 Node.js 的任務自動化管理工具
 - 最主要就是 Gulp 使用了 streams ( 流 ) 的概念，一個任務一個任務的依序按照流程做完，相當的容易思考和理解
 
